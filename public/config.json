@@ -21,7 +21,7 @@
                 }									
 			],
           "outArguments": [],
-          "url": "https://<your-domain-here>/journeybuilder/execute",
+          "url": "https://mcxqdjf10j-ts2tln1bh5s72fqnm/journeybuilder/execute",
            "verb": "POST",
             "body": "",
             "header": "",
@@ -31,24 +31,24 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "__application_key_from_appcenter_here__",
+      "applicationExtensionKey": "6a6675a4-bf9f-4185-8a39-40a77d28aae7",
       "save": {
-        "url": "https://<your-domain-here>/journeybuilder/save",
+        "url": "https://mcxqdjf10j-ts2tln1bh5s72fqnm/journeybuilder/save",
           "verb": "POST",
         "useJwt": true
        },
        "publish": {
-        "url": "https://<your-domain-here>/journeybuilder/publish",
+        "url": "https://mcxqdjf10j-ts2tln1bh5s72fqnm/journeybuilder/publish",
            "verb": "POST",
         "useJwt": true
        },
       "stop": {
-        "url": "https://<your-domain-here>/journeybuilder/stop",
+        "url": "https://mcxqdjf10j-ts2tln1bh5s72fqnm/journeybuilder/stop",
            "verb": "POST",
         "useJwt": true
       },
       "validate": {
-        "url": "https://<your-domain-here>/journeybuilder/validate",
+        "url": "https://mcxqdjf10j-ts2tln1bh5s72fqnm/journeybuilder/validate",
         "verb": "POST",
         "useJwt": true
       }
